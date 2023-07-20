@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Phil </h1>
-<h3 align="center">I'm a Fullstack Programmer</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plutphil&label=Profile%20views&color=0e75b6&style=flat" alt="plutphil" /> </p>
 
